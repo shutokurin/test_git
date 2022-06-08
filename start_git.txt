@@ -1,2 +1,4 @@
 Gitの練習を始める。
 変更１を加えた。
+* git add
+* git commit
