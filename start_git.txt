@@ -8,3 +8,4 @@ Gitの練習を始める。
 * git status
 git log -n 3
 git log --oneline -n 3
+git diff
