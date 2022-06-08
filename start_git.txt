@@ -6,3 +6,5 @@ Gitの練習を始める。
 * :wq
 * git log
 * git status
+git log -n 3
+git log --oneline -n 3
