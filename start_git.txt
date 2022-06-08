@@ -5,3 +5,4 @@ Gitの練習を始める。
 * git rm
 * :wq
 * git log
+* git status
